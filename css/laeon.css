@@ -150,7 +150,7 @@ padding-left:25px;
 .landing{
 background-image:url(../images/landing.jpg);
 background-size:cover;
-background-position: center bottom;
+background-position: center;
 height:calc(100vh - 70px);  
 position:relative;  
 }
